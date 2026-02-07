@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Rock It For Me",
+  "base_artist": "Caravan Palace",
+  "createdAt": "2026-02-07T12:12:19.047942Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rock It for Me",
+      "artist": "Caravan Palace",
+      "has_synced": true,
+      "path": "select/01_Rock_It_for_Me_Caravan_Palace.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rock It for Me",
+      "artist": "Caravan Palace",
+      "has_synced": true,
+      "path": "select/02_Rock_It_for_Me_Caravan_Palace.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rock It for Me",
+      "artist": "Ella Fitzgerald",
+      "has_synced": true,
+      "path": "select/03_Rock_It_for_Me_Ella_Fitzgerald.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rock It for Me (Paused)",
+      "artist": "Caravan Palace",
+      "has_synced": true,
+      "path": "select/04_Rock_It_for_Me_(Paused)_Caravan_Palace.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rock It For Me",
+      "artist": "Caravan Palace",
+      "has_synced": false,
+      "path": "select/pl_01_Rock_It_For_Me_Caravan_Palace.txt"
+    }
+  ]
+}
